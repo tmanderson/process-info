@@ -1,0 +1,18 @@
+{
+  "name": "process-info",
+  "version": "0.1.0",
+  "description": "Get some info on a process or two",
+  "main": "src/main.js",
+  "bin": {
+    "pinfo": "bin/pinfo"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "lodash": "^3.10.1"
+  }
+}
