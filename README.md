@@ -3,8 +3,8 @@
 Crawling [Triviaware](http://triviaware.com/macprocess/all) website.
 
 ## TODO
-[ ] Use a CLI framework (flags for names, errors, descriptions, etc...)
-[ ] Further utilities for processes that aren't found or to manage hogs
+- [ ] Use a CLI framework (flags for names, errors, descriptions, etc...)
+- [ ] Further utilities for processes that aren't found or to manage hogs
 
 ### CSS SELECTORS:
 - `.process` general container
